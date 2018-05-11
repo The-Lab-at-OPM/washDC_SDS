@@ -5,7 +5,14 @@ Summer Design School is a week-long workshop created by The Lab at OPM that expe
 
 We're looking forward to a great week and hope you can join us!
 
-### [Download schedule and details (PDF)](https://github.com/labopm/oaklandSDS/raw/master/SDSOakland_preview_packet_V4.pdf)
+2018 Washington DC Summer Design School
+June 18-22, 2018
+The Lab at OPM
+Washington DC
+
+### [Download schedule and details (PDF)](https://github.com/labopm/washDC_SDS/blob/master/SDS_DC_preview_packet_V3.pdf)
 
 
 Register: <https://lab.opm.gov/class-sign-up/>
+
+p.s. On the west coast? [Check out 2018 Oakland Summer Design School](https://bit.ly/oaklandSDS)
