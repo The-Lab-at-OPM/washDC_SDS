@@ -17,4 +17,4 @@ Register: <https://lab.opm.gov/class-sign-up/>
 <br>
 
 
-p.s. On the west coast? [Check out 2018 Oakland Summer Design School](https://bit.ly/oaklandSDS)
+p.s. On the west coast? Check out [2018 Oakland Summer Design School](https://bit.ly/oaklandSDS)
