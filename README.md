@@ -8,7 +8,7 @@ We're looking forward to a great week and hope you can join us!
 2018 Washington DC Summer Design School  
 June 18-22, 2018 at The Lab at OPM in Washington DC
 
-### [Download schedule and details (PDF)](https://github.com/labopm/washDC_SDS/blob/master/SDS_DC_preview_packet_V3.pdf)
+### [Download schedule and details (PDF)](https://github.com/labopm/washDC_SDS/raw/master/SDS_DC_preview_packet_V3.pdf)
 
 
 Register: <https://lab.opm.gov/class-sign-up/>  
