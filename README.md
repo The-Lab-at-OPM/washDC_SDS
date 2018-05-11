@@ -11,7 +11,7 @@ June 18-22, 2018 at The Lab at OPM in Washington DC
 ### [Download schedule and details (PDF)](https://github.com/labopm/washDC_SDS/blob/master/SDS_DC_preview_packet_V3.pdf)
 
 
-Register: <https://lab.opm.gov/class-sign-up/>
+Register: <https://lab.opm.gov/class-sign-up/>   
 <br>
 <br>
 p.s. On the west coast? [Check out 2018 Oakland Summer Design School](https://bit.ly/oaklandSDS)
